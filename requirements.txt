@@ -4,3 +4,7 @@ matplotlib
 seaborn
 scikit-learn
 jupyter
+joblib
+streamlit
+plotly
+shap
